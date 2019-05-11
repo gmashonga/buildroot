@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 *        text=auto
 
@@ -23,3 +24,12 @@
 *.jar    binary
 *.png    binary
 *.zip    binary
+=======
+## This page intentionally left blank. ##
+#
+# Workaround for VS2013 automatically creating .gitattributes files with
+# default settings that we don't want.
+# See also:
+# http://connect.microsoft.com/VisualStudio/feedback/details/804948/inappropriately-creates-gitattributes-file
+# http://crbug.com/342064
+>>>>>>> 2193bf088ff2c43e9668396199bee3a3171cf285

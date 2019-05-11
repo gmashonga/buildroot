@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![Flutter logo][]][flutter.dev]
 
 [![Build Status - Cirrus][]][Build status]
@@ -94,3 +95,14 @@ Information on how to get started can be found at our
 [IntelliJ / Android Studio]: https://plugins.jetbrains.com/plugin/9212-flutter
 [Flutter packages]: https://pub.dartlang.org/flutter
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
+=======
+# buildroot
+Build environment for the Flutter engine
+
+This repository is used by the [flutter/engine](https://github.com/flutter/engine) repository.
+For instructions on how to use it, see that repository's [CONTRIBUTING.md](https://github.com/flutter/engine/blob/master/CONTRIBUTING.md) file.
+
+To update your checkout to use the latest buildroot, run `gclient sync`.
+
+To submit patches to this buildroot repository, create a branch, push to that branch, then submit a PR on GitHub for that branch.
+>>>>>>> 2193bf088ff2c43e9668396199bee3a3171cf285

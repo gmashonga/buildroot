@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.lock
@@ -94,3 +95,34 @@ coverage/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+=======
+# commonly generated files
+*.pyc
+*~
+.*.sw?
+.checkstyle
+.classpath
+.cproject
+.DS_Store
+.gdb_history
+.gdbinit
+.idea
+.landmines
+.packages
+.project
+.pub
+.pydevproject
+cscope.*
+Session.vim
+tags
+Thumbs.db
+
+# directories pulled in via deps or hooks
+/buildtools/
+/flutter/
+/ios_tools/
+/out/
+
+# This is where the gclient hook downloads the Fuchsia SDK and toolchain.
+/fuchsia/
+>>>>>>> 2193bf088ff2c43e9668396199bee3a3171cf285
